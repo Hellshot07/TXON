@@ -1,1 +1,1 @@
-Creating a landing page using HTML,CSS and Bootstrap Classes.
+Creating a landing page using HTML, CSS and Bootstrap Classes.
