@@ -1,7 +1,14 @@
-TXON_01 -> Creating a landing page using CSS, HTML and Bootstrap
+# TXON INTERNSHIP
+## Web Development and Design Internship
+### Task - 01 : Create a Landing Page
+Demo : https://task1landingpage.netlify.app
 
-TXON_02 -> Creating a calculator using JavaScript, HTML and CSS
+### Task - 02 : Create a Simple Calculator
+Demo : https://task2simplecalculator.netlify.app
 
-TXON_03 -> Creating a To-do list app using JavaScript, HTML and CSS
+### Task - 03 : Create a To-Do list App
+Demo : https://task3todolistapp.netlify.app
 
-TXON_04 -> Creating a Portfolio Responsive Website using JavaScript, HTML and CSS and Bootstrap
+### Task - 04 : Create Your Portfolio Website
+Demo : https://task4portfoliowebsite.netlify.app
+
