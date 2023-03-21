@@ -1,5 +1,5 @@
 # TXON INTERNSHIP
-## Web Development and Design Internship
+## Web Development and Design Intern
 ### Task - 01 : Create a Landing Page
 Demo : https://task1landingpage.netlify.app
 
