@@ -1,4 +1,4 @@
-# Web Developer Intern at TXON
+# TXON Internship
 ## Source Codes ->
 
 ### Task - 01 : Create a Landing Page
