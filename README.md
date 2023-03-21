@@ -1,5 +1,5 @@
 # TXON Internship
-## Source Codes ->
+## Source Code ->
 
 ### Task - 01 : Create a Landing Page
 Demo : https://task1landingpage.netlify.app
