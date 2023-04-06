@@ -1,14 +1,11 @@
 # TXON Internship
 
-### Task - 01 : Create a Landing Page
-Demo : https://task1landingpage.netlify.app
+### Task - 01 : Create your own Portfolio Website
+Demo : https://task2-portfoliosite.netlify.app/
 
-### Task - 02 : Create a Simple Calculator
-Demo : https://task2simplecalculator.netlify.app
+### Task - 02 : Create your Personal Blog
+Demo : https://task1-personalblog.netlify.app
 
-### Task - 03 : Create a To-Do list App
-Demo : https://task3todolistapp.netlify.app
-
-### Task - 04 : Create Your Portfolio Website
-Demo : https://task4portfoliowebsite.netlify.app
+### Task - 03 : Create a URL Shortener
+Demo : https://task3-urlshortener.netlify.app
 
